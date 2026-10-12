@@ -39,6 +39,8 @@ def list_processes() -> list[dict]:
         if len(processes) >= 10:
             break
 
+    return  processes
+
 
 if __name__ == "__main__":
     mcp.run()
