@@ -1,1 +1,1 @@
-# first_mcp_project
+# first_agent
