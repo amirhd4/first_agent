@@ -186,3 +186,6 @@ The model selects tools based on the user's request. The MCP server executes the
 - The agent requires a valid OpenRouter API key and network access.
 - The model must support the API features required by the Agents SDK.
 - The available model is configured in `src
+
+
+[//]: # (uv run mcp dev src/mcp_servers/system/server.py)
